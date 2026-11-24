@@ -73,7 +73,3 @@ python peek.py "path/to/image.jpg"
 ### License
 
 MIT License.
-
----
-
-*Built with Python and Pillow.*
